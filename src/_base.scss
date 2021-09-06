@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+
+
+$text-color: #b1bdb4;
+
+$black-primary: #16191b;
+$black-secondary: #121417;
+$border-color : #4c4c4c;
+
+$breackpoint-medium: 1224px;
+$breakpoint-small :520px;
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: #16191b;
+  background-attachment: fixed;
+  color: $text-color;
+  font-family: "Roboto Thin", sans-serif;
+  letter-spacing: 0.1px;
+
+}
